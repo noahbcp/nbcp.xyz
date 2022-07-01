@@ -1,0 +1,116 @@
+baseURL: https://nbcp.xyz
+title: Noah Piper
+languageCode: en-us
+theme: hugo-theme-hello-friend-ng
+PygmentsCodeFences: yes
+PygmentsStyle: monokai
+paginate: 10
+rssLimit: 10
+archetypeDir: archetypes
+contentDir: content
+dataDir: data
+layoutDir: layouts
+publishDir: public
+buildDrafts: no
+buildFuture: no
+buildExpired: no
+canonifyURLs: yes
+enableRobotsTXT: yes
+enableGitInfo: no
+enableEmoji: yes
+enableMissingTranslationPlaceholders: no
+disableRSS: no
+disableSitemap: no
+disable404: no
+disableHugoGeneratorInject: no
+permalinks:
+  posts: /posts/:year/:month/:title/
+author:
+  name: Noah B.C. Piper
+blackfriday:
+  hrefTargetBlank: yes
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+params:
+  customCSS: []
+  customJS: []
+  dateform: Jan 2, 2006
+  dateformNum: '2006-01-02'
+  dateformNumTime: 2006-01-02 15:04
+  dateformShort: Jan 2
+  description: Noah Piper's Homepage
+  disableReadOtherPosts: no
+  enableGlobalLanguageMenu: yes
+  enableSharingButtons: no
+  enableThemeToggle: no
+  favicon:
+    color:
+      mask: '#1b1c1d'
+      msapplication: '#1b1c1d'
+      theme: '#1b1c1d'
+  footer:
+    author: yes
+    bottomText:
+      - Powered by <a href="http://gohugo.io">Hugo</a>
+      - <a href="https://github.com/rhazdon">Theme</a>
+    copyright: no
+    rss: yes
+    topText: []
+    trademark: yes
+  homeSubtitle: Molecular Biologist, Data Scientist Wannabe
+  images: ''
+  justifyContent: no
+  keywords: ''
+  logo:
+    logoHomeLink: /
+    logoMark: '🤠'
+    logoText: "%>% as.matrix()"
+  social:
+    - name: twitter
+      url: https://twitter.com/noahbcp
+    - name: email
+      url: mailto:noah@nbcp.xyz
+    - name: github
+      url: https://github.com/noahbcp
+    - name: linkedin
+      url: https://www.linkedin.com/in/noah-piper-22572b62/
+    - name: orcid
+      url: https://orcid.org/0000-0003-3711-301X
+languages:
+  en:
+    subtitle: Hello Friend NG Theme
+    weight: 1
+  cn:
+    title: 潘诺亚
+    homesubtitle: 分子生物学家
+    menu:
+      main:
+      - identifier: about
+        name: 关于我
+        url: about/
+      - identifier: blog
+        name: 博客
+        url: blog
+      - identifier: cv
+        name: 建立
+        url: cv/
+      - identifier: publications
+        name: 出版物
+        url: publications
+    weight: 2
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: about/
+    - identifier: cv
+      name: cv
+      url: cv/
+    - identifier: blog
+      name: blog
+      url: blog
+    - identifier: publications
+      name: publications
+      url: publications
