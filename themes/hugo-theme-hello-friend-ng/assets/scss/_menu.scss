@@ -71,9 +71,12 @@
     display: inline-block;
     margin-right: 15px;
     text-decoration: none;
+    transition-duration: 1s;
 
     &:hover {
-      text-decoration: underline;
+      color: red;
+      opacity: 0.70;
+      transition-duration: 400ms;
     }
 
     &:last-of-type {
@@ -126,11 +129,11 @@
     @media (prefers-color-scheme: light) {
       background: $light-background-header;
     }
-    
+
     [data-theme=dark] & {
       background: $dark-background-header;
     }
-  
+
     [data-theme=light] & {
       background: $light-background-header;
     }
@@ -145,7 +148,7 @@
 
   .dropdown-content a:hover {
     background: $dark-background-header;
-    
+
     @media (prefers-color-scheme: light) {
       background: $light-background-header;
     }
@@ -153,7 +156,7 @@
     [data-theme=dark] & {
       background: $dark-background-header;
     }
-  
+
     [data-theme=light] & {
       background: $light-background-header;
     }

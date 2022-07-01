@@ -1,12 +1,11 @@
 ---
 aliases:
-- about-us
-- about-hugo
-- contact
+- curriculum vitae
+- resume
 author:
-  name: Hugo Authors
-date: "2014-04-09"
-title: About
+  name: Noah Piper
+date: "2022-07-01"
+title: Curriculum Vitae
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam faucibus lorem tortor, nec lacinia augue blandit a. Phasellus elit nisi, convallis vel ultricies id, aliquam sed metus. Praesent ac facilisis tortor. Etiam purus est, porta at semper ut, porttitor ac massa. Praesent semper ultrices risus ac facilisis. Phasellus at venenatis augue, eget tincidunt nunc. Quisque venenatis dictum est. Vestibulum maximus pellentesque est nec fringilla. Aenean sed efficitur sem, nec pretium est. Sed aliquet tortor eget ante sodales viverra.

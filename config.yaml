@@ -46,10 +46,7 @@ params:
   enableSharingButtons: no
   enableThemeToggle: no
   favicon:
-    color:
-      mask: '#1b1c1d'
-      msapplication: '#1b1c1d'
-      theme: '#1b1c1d'
+    url: ../../icon-192x192.png
   footer:
     author: yes
     bottomText:
@@ -75,12 +72,11 @@ params:
     - name: github
       url: https://github.com/noahbcp
     - name: linkedin
-      url: https://www.linkedin.com/in/noah-piper-22572b62/
+      url: https://linkedin.com/in/noah-piper-22572b62/
     - name: orcid
       url: https://orcid.org/0000-0003-3711-301X
 languages:
   en:
-    subtitle: Hello Friend NG Theme
     weight: 1
   cn:
     title: 潘诺亚
@@ -88,17 +84,17 @@ languages:
     menu:
       main:
       - identifier: about
-        name: 关于我
+        name: 关于
         url: about/
       - identifier: blog
         name: 博客
-        url: blog
+        url: ../blog/
       - identifier: cv
         name: 建立
-        url: cv/
+        url: ../cv/
       - identifier: publications
         name: 出版物
-        url: publications
+        url: ../publications/
     weight: 2
 menu:
   main:
@@ -110,7 +106,7 @@ menu:
       url: cv/
     - identifier: blog
       name: blog
-      url: blog
+      url: post
     - identifier: publications
       name: publications
       url: publications
