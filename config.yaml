@@ -49,9 +49,6 @@ params:
     url: ../../icon-192x192.png
   footer:
     author: yes
-    bottomText:
-      - Powered by <a href="http://gohugo.io">Hugo</a>
-      - <a href="https://github.com/rhazdon">Theme</a>
     copyright: no
     rss: yes
     topText: []
