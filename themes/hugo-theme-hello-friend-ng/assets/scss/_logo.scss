@@ -36,7 +36,9 @@
 
 }
 //Change logo__mark (cowboy) on hover
-
+.logo__text:hover::after {
+  content: " %>% ";
+}
 
 @keyframes cursor {
   0% { opacity: 0; }

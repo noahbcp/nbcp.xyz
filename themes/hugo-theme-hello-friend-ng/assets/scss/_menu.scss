@@ -71,12 +71,11 @@
     display: inline-block;
     margin-right: 15px;
     text-decoration: none;
-    transition-duration: 1s;
+    transition-duration: 800ms !important;
 
     &:hover {
-      color: red;
-      opacity: 0.70;
-      transition-duration: 400ms;
+      color: #DA4567 !important;
+      transition-duration: 400ms !important;
     }
 
     &:last-of-type {

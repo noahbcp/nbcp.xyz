@@ -90,7 +90,7 @@ languages:
         name: 博客
         url: ../blog/
       - identifier: cv
-        name: 建立
+        name: 简历
         url: ../cv/
       - identifier: publications
         name: 出版物

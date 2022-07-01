@@ -1,20 +1,27 @@
 //Change social icons on hover
 .main-icon {
-  transition-duration: 1s;
+  transition-duration: 800ms !important;
 }
 
 .main-icon-orcid {
-  transition-duration: 1s;
+  transition-duration: 800ms !important;
 }
 
 .main-icon:hover {
-  stroke: red;
-  opacity: 0.7;
-  transition: 400ms;
+  stroke: #DA4567 !important;
+  transition: 400ms !important;
 }
 .main-icon-orcid:hover{
-  fill: red;
-  opacity: 0.7;
+  fill: #DA4567 !important;
+  transition: 400ms !important;
+}
+
+//Links change colour on hover
+a:link {
+  transition-duration: 400ms;
+}
+a:link:hover {
+  color: #DA4567;
   transition: 400ms;
 }
 
