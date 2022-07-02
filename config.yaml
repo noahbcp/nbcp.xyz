@@ -60,7 +60,9 @@ params:
   logo:
     logoHomeLink: /
     logoMark: '🤠'
+    logoMark2: '👨‍🔬'
     logoText: "%>% as.matrix()"
+    logoText2: "%>% as.dataframe()"
   social:
     - name: twitter
       url: https://twitter.com/noahbcp

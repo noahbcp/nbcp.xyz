@@ -1,4 +1,4 @@
-//Change social icons on hover
+/* Change social icons on hover */
 .main-icon {
   transition-duration: 800ms !important;
 }
@@ -16,7 +16,7 @@
   transition: 400ms !important;
 }
 
-//Links change colour on hover
+/* Links change colour on hover */
 a:link {
   transition-duration: 400ms !important;
 }
@@ -25,7 +25,53 @@ a:link:hover {
   transition: 400ms !important;
 }
 
-//Change logo__mark (cowboy) on hover
-.logo__text:hover::after {
-  content: " %>% ";
+/* Logo */
+/* Logo Cursor */
+.logo__cursor {
+  display: inline-block;
+  width: 8px;
+  height: 1rem;
+  background: #fe5186;
+  margin-left: 5px;
+  border-radius: 1px;
+  animation: cursor 1.2s infinite;
+}
+
+@keyframes cursor {
+  0% { opacity: 0; }
+  50% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+/*Logo change on hover*/
+div#logo span#logomark_a {
+  display: inline;
+}
+
+div#logo:hover #logomark_a {
+  display: none;
+}
+
+div#logo span#logomark_b {
+  display: none;
+}
+
+div#logo:hover #logomark_b {
+  display: inline;
+}
+
+div#logo span#logotext_a {
+  display: inline;
+}
+
+div#logo:hover span#logotext_a {
+  display: none;
+}
+
+div#logo span#logotext_b {
+  display: none;
+}
+
+div#logo:hover  span#logotext_b {
+  display: inline;
 }
