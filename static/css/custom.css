@@ -16,15 +16,6 @@
   transition: 400ms !important;
 }
 
-/* Links change colour on hover */
-a:link {
-  transition-duration: 400ms !important;
-}
-a:link:hover {
-  color: #DA4567;
-  transition: 400ms !important;
-}
-
 /* Logo */
 /* Logo Cursor */
 .logo__cursor {
@@ -61,3 +52,18 @@ div#logo span#logomark_b {
 div#logo:hover #logomark_b {
   display: inline;
 }
+
+/* Links change colour on hover */
+a:not(.logo):link {
+  transition-duration: 400ms !important;
+}
+a:not(.logo):link:hover {
+  color: #DA4567;
+  transition: 400ms !important;
+}
+a:not(.logo):visited {
+  transition-duration: 400ms !important;
+}
+a:not(.logo):visited:hover {
+  color: #DA4567;
+  transition: 400ms !important;

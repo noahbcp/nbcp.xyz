@@ -34,7 +34,7 @@ taxonomies:
   series: series
   tag: tags
 params:
-  customCSS: []
+  customCSS: ["css/custom.css"]
   customJS: []
   dateform: Jan 2, 2006
   dateformNum: '2006-01-02'
