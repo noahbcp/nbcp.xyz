@@ -12,7 +12,9 @@ title: Curriculum Vitae
 
 ---
 
-##### 🏠 Brisbane, QLD, Australia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔗 [nbcp.xyz](https://www.nbcp.xyz) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📄 [.pdf](/NoahPiperCV.pdf)
+##### 🏠 Brisbane, QLD, Australia  
+##### 🔗 [nbcp.xyz](https://www.nbcp.xyz)  
+##### 📄 [.pdf](/NoahPiperCV.pdf)
 
 ---
 
