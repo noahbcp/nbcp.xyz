@@ -12,9 +12,9 @@ title: Curriculum Vitae
 
 ---
 
-##### 🏠 Brisbane, QLD, Australia  
-##### 🔗 [nbcp.xyz](https://www.nbcp.xyz)  
-##### 📄 [.pdf](/NoahPiperCV.pdf)
+##### 🏠 &nbsp; Brisbane, QLD, Australia  
+##### 🔗 &nbsp; [nbcp.xyz](https://www.nbcp.xyz)  
+##### 📄 &nbsp; [.pdf](/NoahPiperCV.pdf)
 
 ---
 
@@ -29,7 +29,7 @@ Completing my doctoral training in the [Receptor Transducer Coupling](https://ww
 #### Bachelor of Pharmaceutical Science (Hons.)
 *Monash University*
 
-Completed my undergraduate at the [world's best](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/pharmacy-pharmacology) pharmacology faculty as assessed by QS rankings. My honours year was completed in the [Molecular & Translational Drug Discovery](https://www.monash.edu/pharm/research/areas/drug-discovery/labs/molecular-translational-drug-discovery/home) lab under the supervision of [Dr. Greg Stewart](https://research.monash.edu/en/persons/gregory-stewart) and Dr. Patricia Rueda where I recieved First Class Honours.
+Completed my undergraduate at the [world's best](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/pharmacy-pharmacology) pharmacology faculty as assessed by QS rankings. My honours year was completed in the [Molecular & Translational Drug Discovery](https://www.monash.edu/pharm/research/areas/drug-discovery/labs/molecular-translational-drug-discovery/home) lab under the supervision of [Dr. Greg Stewart](https://research.monash.edu/en/persons/gregory-stewart) and Dr. Patricia Rueda where I received First Class Honours.
 
 ---
 ## Research Output
