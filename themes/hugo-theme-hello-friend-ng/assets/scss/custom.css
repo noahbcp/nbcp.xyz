@@ -46,6 +46,7 @@ a:link:hover {
 /*Logo change on hover*/
 div#logo span#logomark_a {
   display: inline;
+  width: 1.5rem;
 }
 
 div#logo:hover #logomark_a {
@@ -54,24 +55,9 @@ div#logo:hover #logomark_a {
 
 div#logo span#logomark_b {
   display: none;
+  width: 1.5rem;
 }
 
 div#logo:hover #logomark_b {
-  display: inline;
-}
-
-div#logo span#logotext_a {
-  display: inline;
-}
-
-div#logo:hover span#logotext_a {
-  display: none;
-}
-
-div#logo span#logotext_b {
-  display: none;
-}
-
-div#logo:hover  span#logotext_b {
   display: inline;
 }
