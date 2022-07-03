@@ -15,7 +15,7 @@ buildDrafts: no
 buildFuture: no
 buildExpired: no
 canonifyURLs: yes
-enableRobotsTXT: yes
+enableRobotsTXT: no
 enableGitInfo: no
 enableEmoji: yes
 enableMissingTranslationPlaceholders: no
