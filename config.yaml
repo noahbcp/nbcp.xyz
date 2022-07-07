@@ -85,9 +85,9 @@ languages:
       - identifier: about
         name: 关于
         url: about/
-#      - identifier: blog
-#        name: 博客
-#        url: ../blog/
+      - identifier: blog
+        name: 博客
+        url: ../post/
       - identifier: cv
         name: 简历
         url: ../cv/
