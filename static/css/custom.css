@@ -1,7 +1,12 @@
+/* Change highlight colour */
+*::selection {
+  background: rgb(218, 69, 103, 0.7);
+}
+
 /* Change social icons on hover */
 .main-icon {
   transition-duration: 800ms !important;
-}
+}s
 
 .main-icon-orcid {
   transition-duration: 800ms !important;
