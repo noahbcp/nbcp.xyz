@@ -1,3 +1,12 @@
+/* Fig caption styling */
+figcaption {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  text-align: center;
+  opacity: 0.8 !important;
+  font-size: 0.8rem !important;
+}
+
 /* Change highlight colour */
 *::selection {
   background: rgb(218, 69, 103, 0.7);
