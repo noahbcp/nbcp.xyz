@@ -103,9 +103,9 @@ menu:
     - identifier: cv
       name: cv
       url: cv/
-#    - identifier: blog
-#      name: blog
-#      url: post
+    - identifier: blog
+      name: blog
+      url: post
     - identifier: publications
       name: publications
       url: publications
