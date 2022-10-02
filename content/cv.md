@@ -33,7 +33,14 @@ Completed my undergraduate at the [world's best](https://www.topuniversities.com
 
 ---
 ## Research Output
-Please visit the [Publications](../publications) page.
+Refer to the [Publications](../publications) page.
+
+---
+## Awards & Scholarships
+#### 2022 
+#### HDR Travel Scholarship  
+*University of Queensland - School of Biomedical Sciences*  
+Monetary scholarship to attend [ComBio2022](https://www.combio.org.au/) to present my work: '[MRAP2 is Required for Melanocortin 4 Receptor Function](https://nbcp.xyz/publications/combio2022poster.pdf)'.
 
 ---
 ## Professional Affiliations & Memberships
