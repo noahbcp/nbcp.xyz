@@ -55,7 +55,6 @@ Competitive 4-year monetary scholarship to fund doctoral studies ($28,000/yr).
 #### 2021 - Ongoing
 *Australian Society for Biochemistry & Molecular Biology ([ASBMB](https://www.asbmb.org.au/))*
 
-Organiser
-
 #### 2017 - 2018
-*Monash University Employability Intensive*
+*Monash University Employability Intensive*  
+Organiser
